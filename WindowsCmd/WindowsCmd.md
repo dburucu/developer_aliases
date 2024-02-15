@@ -1,4 +1,4 @@
-## informations from https://stackoverflow.com/a/21040825/1847461
+-- informations from https://stackoverflow.com/a/21040825/1847461
 
 1. Create a .bat or .cmd file with your DOSKEY commands. See alias.cmd file.
 
