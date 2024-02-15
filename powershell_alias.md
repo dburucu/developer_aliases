@@ -4,7 +4,7 @@
    
    PS> notepad $PROFILE
    
-3. copy and save
+3. copy, paste and save
    
    function php56 { C:\xampp\php\php.exe $ARGS }
    
