@@ -1,3 +1,5 @@
+## informations from https://stackoverflow.com/a/21040825/1847461
+
 1. Create a .bat or .cmd file with your DOSKEY commands. See alias.cmd file.
 
 2. Run regedit and go to HKEY_CURRENT_USER\Software\Microsoft\Command Processor. See alias.reg file.
